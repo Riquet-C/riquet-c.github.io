@@ -160,6 +160,3 @@ if (isset($_POST["nomDuProduit"]) && $_POST["combienDeProduits"] == 0) {
     </div>
 </body>
 
-<?php
-include "footer.php";
-?>
