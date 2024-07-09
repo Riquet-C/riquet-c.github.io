@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+}
+
+nav img {
+  width: 5em;
+}
+
+strike {
+  color: red;
+}
+
+.catalogue {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.image {
+  width: 100%;
+  height: 15em;
+}
+
+.bouton {
+  background-color: #bbe9ff;
+}
+
+.panier {
+  display: flex;
+  margin: 2em;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.produitpanier {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 0.5em;
+}
+
+.prixTotal {
+  box-sizing: border-box;
+  width: 30%;
+  padding: 1em;
+}
+
+td {
+  border-bottom: solid 1px black;
+}
