@@ -57,3 +57,6 @@ include "database.php";
     </section>
 </body>
 
+<?php
+include "footer.php";
+?>
